@@ -10,6 +10,7 @@ class SampleTest extends PHPUnit_Framework_TestCase {
     $obj = new Sample();
     $this->assertTrue($obj->helloWorld() == "Hello! and Bonjour!  Final Lab Task!");
   }
+  
 }
 
 ?>
