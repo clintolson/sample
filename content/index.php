@@ -30,7 +30,7 @@
   <body>
     <div id="container">
       <img src="reinvent.png" id="logo" alt="AWS re:Invent">
-      <h1>Application Lifecycle Management (ALM) Bootcamp</h1>
+      <h1>Application Lifecycle Management (ALM) Bootcamp using AWS CodePipeline</h1>
       <p>
 	<?php
 	require_once('src/Sample.php');
